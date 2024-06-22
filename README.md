@@ -34,10 +34,10 @@ Before you begin, ensure you have met the following requirements:
   pip install tkinter
 
 
-git clone https://github.com/your-username/grocery-shop-billing-system.git
-cd grocery-shop-billing-system
+- git clone https://github.com/your-username/grocery-shop-billing-system.git
+- cd grocery-shop-billing-system
 
-Run the Application:
+- Run the Application:
 
 
-python3 billing.py
+- python3 billing.py
