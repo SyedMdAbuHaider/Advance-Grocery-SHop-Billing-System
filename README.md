@@ -1,13 +1,10 @@
-# Advance-Grocery-SHop-Billing-System
-
-
 # Advanced Grocery Shop Billing System
 
 **Developed by:** S M Abu Haider
 
 ## Project Overview
 
-The Advanced Grocery Shop Billing System is a comprehensive and user-friendly application designed to manage the billing and inventory of a grocery shop. The system features a modern, dark-mode GUI and provides functionality for billing, inventory management, and fraud detection. Additionally, it notifies the owner via email for each purchase and detects potential fraudulent activities.
+The Advanced Grocery Shop Billing System is a comprehensive and user-friendly application designed to manage the billing and inventory of a grocery shop. The system features a modern, dark-mode GUI and provides billing, inventory management, and fraud detection functionality. Additionally, it notifies the owner via email for each purchase and detects potential fraudulent activities.
 
 ## Features
 
