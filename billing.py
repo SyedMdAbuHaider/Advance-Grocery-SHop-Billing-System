@@ -182,7 +182,7 @@ class GroceryBillingSystem(tk.Tk):
         return False
 
     def send_email(self, message):
-        sender = "MS_KrKk3m@trial-k68zxl21d394j905.mlsender.net"
+        sender = "mail server name goes here"
         recipient = "owner_email@example.com"  # Replace with actual owner's email
         subject = "Purchase Notification"
         msg = MIMEMultipart()
