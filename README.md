@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-The Advanced Grocery Shop Billing System is a comprehensive and user-friendly application designed to manage the billing and inventory of a grocery shop. The system features a modern, dark-mode GUI and provides billing, inventory management, and fraud detection functionality. Additionally, it notifies the owner via email for each purchase and detects potential fraudulent activities.
+The Advanced Grocery Shop Billing System is a comprehensive and user-friendly application designed to manage the billing and inventory of a grocery shop. The system features a modern, dark-mode GUI and provides functionality for billing, inventory management, and fraud detection. Additionally, it notifies the owner via email for each purchase and detects potential fraudulent activities.
 
 ## Features
 
@@ -22,9 +22,22 @@ The Advanced Grocery Shop Billing System is a comprehensive and user-friendly ap
 - **SQLite:** For database management and storage.
 - **smtplib and email Libraries:** For sending email notifications.
 
-## Installation
+## Prerequisites
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/grocery-shop-billing-system.git
-   cd grocery-shop-billing-system
+Before you begin, ensure you have met the following requirements:
+
+- You have installed Python 3.x on your machine. You can download it from [python.org](https://www.python.org/downloads/).
+- You have a basic understanding of Python and its libraries.
+- You have an internet connection for sending email notifications.
+- You have installed the required libraries:
+  ```bash
+  pip install tkinter
+
+
+git clone https://github.com/your-username/grocery-shop-billing-system.git
+cd grocery-shop-billing-system
+
+Run the Application:
+
+
+python3 billing.py
